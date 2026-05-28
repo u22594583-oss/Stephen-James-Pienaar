@@ -71,8 +71,8 @@ Target: sub-1% false-positive rate on complex datasets, with 15%+ AUC improvemen
 ## 📫 Get in touch
 
 - 📧 stephenjamespienaar@gmail.com
+- linkedin.com/in/stephen-pienaar-7880b3412
 - 🇿🇦 Pretoria, South Africa
-
 ---
 
 *Open to graduate data science and analytics opportunities across South African banking, consulting, insurance, and public sector.*
