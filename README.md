@@ -34,8 +34,7 @@ Target: sub-1% false-positive rate on complex datasets, with 15%+ AUC improvemen
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [Credit Risk Classifier](https://github.com/stephen-pienaar/credit-risk-classifier) | Logistic regression + random forest model for credit default prediction | Python, scikit-learn, pandas |
-| [SVM-CNN-EWMA Research](https://github.com/stephen-pienaar/svm-cnn-ewma) | Honours thesis codebase — hybrid anomaly detection framework | Python, R, SAS |
+| [SVM-CNN-EWMA Research](https://github.com/stephen-pienaar/svm-cnn-ewma) | Honours thesis codebase — hybrid anomaly detection framework | Python |
 
 > More projects coming soon — currently building out this portfolio.
 
