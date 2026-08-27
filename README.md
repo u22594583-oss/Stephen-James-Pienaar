@@ -1,4 +1,4 @@
-# Hi, I'm Stephen Pienaar 👋
+# Hi, I'm Stephen Pienaar 
 
 **BCom Honours — Statistics & Data Science | University of Pretoria**
 
@@ -6,7 +6,7 @@ Data science student combining an economics background with machine learning res
 
 ---
 
-## 🔬 Current Research
+## Current Research
 
 **One-Class Hybrid SVM-CNN-EWMA Monitoring Scheme** *(2026 – present)*
 
@@ -19,7 +19,7 @@ Target: sub-1% false-positive rate on complex datasets, with 15%+ AUC improvemen
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Languages | ML & Stats | Tools |
 |-----------|-----------|-------|
@@ -30,18 +30,18 @@ Target: sub-1% false-positive rate on complex datasets, with 15%+ AUC improvemen
 
 ---
 
-## 📂 Projects
+## Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [Credit Risk Classifier](https://github.com/stephen-pienaar/credit-risk-classifier) | Logistic regression + random forest model for credit default prediction | Python, scikit-learn, pandas |
 | [SVM-CNN-EWMA Research](https://github.com/stephen-pienaar/svm-cnn-ewma) | Honours thesis codebase — hybrid anomaly detection framework | Python, R, SAS |
 
-> 🚧 More projects coming soon — currently building out this portfolio.
+> More projects coming soon — currently building out this portfolio.
 
 ---
 
-## 🎓 Education
+## Education
 
 - **BCom Honours — Statistics and Data Science**, University of Pretoria *(2026 – present)*
 - **BCom Economics**, University of Pretoria *(2022 – 2025)*
@@ -49,7 +49,7 @@ Target: sub-1% false-positive rate on complex datasets, with 15%+ AUC improvemen
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Junior Data Analyst (Part-time)** — Turn-Key Human Resource *(Jan 2023 – present)*
 - Improved employee data accuracy by ~30% across 2,500+ records by building a Python-based validation pipeline
@@ -58,7 +58,7 @@ Target: sub-1% false-positive rate on complex datasets, with 15%+ AUC improvemen
 
 ---
 
-## 📊 Interests
+## Interests
 
 - Credit risk modelling & financial data analytics
 - Machine learning applications in economics and business
@@ -68,11 +68,11 @@ Target: sub-1% false-positive rate on complex datasets, with 15%+ AUC improvemen
 
 ---
 
-## 📫 Get in touch
+## Get in touch
 
-- 📧 stephenjamespienaar@gmail.com
+- stephenjamespienaar@gmail.com
 - linkedin.com/in/stephen-pienaar-7880b3412
 - 🇿🇦 Pretoria, South Africa
 ---
 
-*Open to graduate data science and analytics opportunities across South African banking, consulting, insurance, and public sector.*
+*Open to graduate data science and analytics opportunities across South Africa.*
