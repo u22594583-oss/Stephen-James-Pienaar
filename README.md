@@ -41,22 +41,21 @@ Statistics and data science student with an economics background, working on ano
 
 ## 📌 Featured project
 
-### [svm-cnn-ewma](https://github.com/stephen-pienaar/svm-cnn-ewma)
+### [pipeline-thesis](https://github.com/u22594583-oss/pipeline-thesis) (Currently private)
 
 Honours thesis codebase. A Conv1D autoencoder learns a compressed representation of short overlapping windows of a multivariate signal, trained only on in-control data. Each window yields two statistics: the decision score of a one-class SVM fitted on the latent features, and the log reconstruction error. Both feed a MEWMA chart whose control limit is calibrated empirically on held-out in-control data rather than taken from standard tables.
 
 Currently evaluated on simulated data with a known change point and a target in-control ARL of 370. Work in progress, results not final.
 
-`Python` · `scikit-learn` · `TensorFlow/Keras` · `NumPy`
+`Python` · `scikit-learn` · `TensorFlow` · `NumPy`
 
 ---
 
 ## 🎓 Education
 
-**BCom Honours, Statistics and Data Science** — University of Pretoria, 2026 to present
+**BCom(Hons) Statistics and Data Science** — University of Pretoria (2026 - present)
 
-**BCom Economics** — University of Pretoria, 2022 to 2025
-Statistical Coding 90% · Applications in Data Science 85% · Intermediate Macroeconomics 87%
+**BCom Economics** — University of Pretoria (2022 - 2025)
 
 ---
 
