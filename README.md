@@ -25,6 +25,7 @@ Statistics and data science student with an economics background, working on ano
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 <img src="https://images.icon-icons.com/2699/PNG/512/tensorflow_logo_icon_168671.png" width="100">
 <img src="https://www.heanet.ie/wp-content/uploads/2018/10/SAS-Sq.png" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/25/LaTeX_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="100">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/960px-R_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
