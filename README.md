@@ -116,6 +116,6 @@ Maintain the Python validation pipeline that employee records pass through befor
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/stephen-pienaar-7880b3412)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:stephenjamespienaar@gmail.com)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/stephen-pienaar)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Reasonable_Maybe_908/)
 
 Open to graduate data science and analytics roles in South Africa.
