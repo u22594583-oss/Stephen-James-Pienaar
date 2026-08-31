@@ -77,7 +77,7 @@ Statistics and data science student with an economics background, working on ano
 
 ## 📌 Featured project
 
-### [svm-cnn-ewma](https://github.com/stephen-pienaar/svm-cnn-ewma)
+### [pipeline-thesis](https://github.com/stephen-pienaar/pipeline-thesis) (currently private)
 
 Honours thesis codebase. A Conv1D autoencoder learns a compressed representation of short overlapping windows of a multivariate signal, trained only on in-control data. Each window yields two statistics: the decision score of a one-class SVM fitted on the latent features, and the log reconstruction error. Both feed a MEWMA chart whose control limit is calibrated empirically on held-out in-control data rather than taken from standard tables.
 
